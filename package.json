@@ -1,0 +1,17 @@
+{
+  "name": "backend_server",
+  "version": "1.0.0",
+  "description": "API de servicio para tareas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomás Bozzano",
+  "license": "ISC",
+  "dependencies": {
+    "cache-manager": "^7.0.0",
+    "express": "5.1.0"
+  }
+}
