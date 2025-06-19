@@ -23,3 +23,15 @@ npm i
 
 ```
 
+## 🧷 Métodos de la API
+
+```
+GET /tasks
+
+POST /tasks
+
+PUT /tasks/:id
+
+DELETE /tasks/:id
+
+```
